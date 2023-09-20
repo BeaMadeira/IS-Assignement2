@@ -1,0 +1,7 @@
+beans\IManageStudents.class
+beans\Emails.class
+beans\ManageStudents.class
+beansDto\TicketsDto.class
+beansDto\CompanyManagerDto.class
+beansDto\TripsDto.class
+beansDto\UserDto.class

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.6.3
+Built-By: Beatriz Madeira
+Build-Jdk: 16.0.2
+Class-Path: lib/jpa.jar lib/hibernate-entitymanager.jar lib/jboss-loggin
+ g.jar lib/hibernate-core.jar lib/antlr.jar lib/jandex.jar lib/dom4j.jar
+  lib/xml-apis.jar lib/hibernate-commons-annotations.jar lib/hibernate-j
+ pa-2.1-api.jar lib/geronimo-jta_1.1_spec.jar lib/javassist.jar lib/slf4
+ j-api.jar
+
